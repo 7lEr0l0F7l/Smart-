@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+  body {
+    word-break: keep-all;
+  }
+}

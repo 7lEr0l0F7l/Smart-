@@ -1,0 +1,6 @@
+{
+  "name": "스마트 온실 홍시 관찰 KIT (Hongsi Kit)",
+  "description": "아두이노 온·습도·조도 센서 및 카메라 연동 스마트 온실 모바일 앱. AI 감감이 반려 과일 챗봇(교육용)과 실시간 관제 대시보드(취미용), 관찰 일기 및 레시피 커뮤니티 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
